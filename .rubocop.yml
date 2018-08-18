@@ -329,7 +329,7 @@ Style/RaiseArgs:
 Style/RegexpLiteral:
   Description: 'Use / or %r around regular expressions.'
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#percent-r'
-  Enabled: false
+  Enabled: false.
 
 Style/SelfAssignment:
   Description: >-
